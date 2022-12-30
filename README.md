@@ -4,7 +4,7 @@ api made with express and sequelize
 ##  Listado de endpoints, de cada modelo
 #### ROLES
 
-- `/api/Allroles/` - obtener todos los productos.   
+- `/api/Allroles/` - obtener todos los roles.   
 - `/api/rol/:id` - obtener solo un rol, a través del id pasado por parámetro
 - `/api/createRol/` - crear un nuevo rol
 - `/api/updateRol` - actualizar un rol especifico con el id pasado por parámetro
